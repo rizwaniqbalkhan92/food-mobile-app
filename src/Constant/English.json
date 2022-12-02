@@ -1,0 +1,39 @@
+{
+
+"onboarding-text-one":"",
+"onboarding-text-two":"",
+"onboarding-text-three":"",
+"onboarding-subtext-one":"",
+"onboarding-subtext-two":"",
+"onboarding-subtext-three":"",
+
+
+"btn-text-started":"Get Started",
+"btn-text-order":"Please Order",
+"btn-text-go-to-order":"Please Order",
+"btn-text-addtocart":"Add to Cart",
+"btn-text-shopping-continue":"Continue Shopping",
+"btn-text-checkout":"Check Out",
+"btn-text-order-confirm":"Order Confirm",
+
+
+"text-find-food":"Find Your Food",
+"text-find-order":"Find Your Order",
+"text-top-of-the-week":"Top Of The Week",
+"text-popular-food":"Popular Food",
+"text-confirm-order-msg":"Your order is successfully done",
+"text-track-order":"You can track the delivery in the order section",
+"text-address":"Delivery Address",
+"text-time-delivery":"Estimated Delivery Time",
+"text-review":"Review",
+"text-mycart":"My Cart",
+"text-selected-item":"Selected Item",
+"text-delivery-charges":"Delivery & handling",
+"text-total-price":"Total Price",
+"text-sub-total":"Sub Total",
+
+
+
+
+
+}

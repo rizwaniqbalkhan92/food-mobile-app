@@ -1,0 +1,58 @@
+{
+
+    "primary-theme-bg-color":"#ffffff",
+    "primary-theme-bg-color2":"#fcfcfc",
+    "primary-theme-bg-color3":"#ffffff",
+    "primary-btn-color":"#ff6b01",
+    "primary-fc":"#b1b1b1",
+    "primary-fc-1":"#2e2e2e",
+    "primary-fc-2":"#2f333c",
+    "primary-fc-3":"#636466",
+    "primary-fc-4":"#fcfcfc",
+    "primary-fc-5":"#fefefe",
+
+
+    "ff-roboto":"",
+    "ff-sansarif":"",
+    "ff-arial":"",
+
+    "br-2":2,
+    "br-5":5,
+    "br-10":10,
+    "br-12":12,
+    "br-15":15,
+    "br-18":18,
+    "br-20":20,
+    "br-50":"50%",
+
+
+
+    "fz-14":14,
+    "fz-16":16,
+    "fz-18":18,
+    "fz-20":20,
+    "fz-22":22,
+    "fz-24":24,
+    "fz-26":26,
+    "fz-28":28,
+    "fz-30":30,
+
+    "fw-300":"300",
+    "fw-400":"400",
+    "fw-500":"500",
+    "fw-600":"600",
+    "fw-700":"700",
+    "fw-800":"800"
+
+
+ 
+       
+  
+    
+
+
+
+      
+
+     
+}
